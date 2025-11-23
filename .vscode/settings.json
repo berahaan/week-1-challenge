@@ -13,5 +13,10 @@
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
         "source.organizeImports": "explicit"
-    }
+    },
+    "jupyter.jupyterServerType": "local",
+    "notebook.defaultFormatter": "ms-python.black-formatter",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}"
+    ]
 }
