@@ -50,10 +50,11 @@ Nova Financial Solutions aims to enhance its predictive analytics capabilities t
   - Time Series Analysis
   - Publisher Analysis
 
-### Task 2: Quantitative Analysis (In Progress)
-- Technical indicators using TA-Lib
-- Financial metrics using PyNance
-- Data visualization
+### Task 2: Quantitative Analysis ✅
+- [x] Load and prepare stock price data
+- [x] Technical indicators using TA-Lib (MA, RSI, MACD, Bollinger Bands, ATR)
+- [x] Financial metrics using PyNance/pandas (Returns, Volatility, Sharpe Ratio)
+- [x] Data visualization (Price charts, RSI, MACD, Bollinger Bands, Comparisons)
 
 ### Task 3: Correlation Analysis (Pending)
 - Sentiment analysis on headlines
